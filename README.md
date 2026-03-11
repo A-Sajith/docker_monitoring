@@ -1,4 +1,4 @@
-# Docker Server Monitor 
+# Docker Serveur Monitor 
 
 Un projet **Docker + Bash** pour surveiller plusieurs serveurs en continu.  
 Le conteneur ping les serveurs définis et log leur statut (UP / DOWN) dans un fichier log.  
