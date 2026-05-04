@@ -13,7 +13,7 @@ Le conteneur ping les serveurs définis et log leur statut (UP / DOWN) dans un f
 
 
 ## Architecture du projet
-
+```
 docker_server_monitor
 │
 ├── docker-compose.yml
@@ -21,7 +21,7 @@ docker_server_monitor
 ├── README.md
 └── monitor
 └── monitor.sh
-
+```
 
 - `monitor.sh` : script Bash qui ping les serveurs et log les résultats  
 - `Dockerfile` : construit le conteneur basé sur Alpine avec Bash  
