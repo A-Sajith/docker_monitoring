@@ -33,7 +33,7 @@ docker_server_monitor
 1. Cloner le projet :
 
 ```bash
-git clone https://github.com/TonPseudo/docker-server-monitor.git
+git clone https://github.com/A-Sajith/docker-server-monitor.git
 cd docker-server-monitor
 ```
 Lancer Docker Compose :
